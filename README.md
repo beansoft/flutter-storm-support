@@ -1,4 +1,4 @@
-# Flutter Storm
+# 🧩Flutter Storm
 a WebStorm/PhpStorm/GoLand plugin for developing Flutter applications
 
 Made with ❤️ by BeanSoft.
