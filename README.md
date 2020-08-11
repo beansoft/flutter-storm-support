@@ -5,7 +5,7 @@ Made with ❤️ by BeanSoft.
 
 Download Link: https://plugins.jetbrains.com/plugin/14718-flutter-storm
 
-or just inside your IDE's plugin page, search for `Flutter Storm`
+or just inside your IDE, In the **Settings/Preferences** dialog ⌘, , select **Plugins**, at **Marketplace** tab, search for `Flutter Storm` and then install it.
 
 [Features](https://plugins.jetbrains.com/plugin/14718-flutter-storm/features) | [FAQ](https://plugins.jetbrains.com/plugin/14718-flutter-storm/faq)
 
