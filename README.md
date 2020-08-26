@@ -1,4 +1,4 @@
-# 🧩FL Storm (previous name is Flutter Storm)
+# 🧩FL Storm (former Flutter Storm)
 Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
 
 Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
