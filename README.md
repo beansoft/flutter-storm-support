@@ -1,13 +1,15 @@
-# 🧩Flutter Storm
-a WebStorm/PhpStorm/GoLand plugin for developing Flutter applications
+# 🧩FL Storm (previous name is Flutter Storm)
+Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
+
+Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
 
 Made with ❤️ by BeanSoft.
 
-Download Link: https://plugins.jetbrains.com/plugin/14718-flutter-storm
+Download Link: https://plugins.jetbrains.com/plugin/14718-fl-storm
 
-or just inside your IDE, In the **Settings/Preferences** dialog ⌘, , select **Plugins**, at **Marketplace** tab, search for **Flutter Storm** and then install it.
+or just inside your IDE, In the **Settings/Preferences** dialog ⌘, , select **Plugins**, at **Marketplace** tab, search for **FL Storm** and then install it.
 
-[Features](https://plugins.jetbrains.com/plugin/14718-flutter-storm/features) | [FAQ](https://plugins.jetbrains.com/plugin/14718-flutter-storm/faq)
+[Features](https://plugins.jetbrains.com/plugin/14718-fl-storm/features) | [FAQ](https://plugins.jetbrains.com/plugin/14718-fl-storm/faq)
 
 Based on official [Flutter plugin](https://plugins.jetbrains.com/plugin/9212-flutter) with bugs fix and support for *Storm IDE(IDEA, Android Studio might be supported). Also provides a tool window for one-click run flutter commands and some other features.
 
