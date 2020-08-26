@@ -4,12 +4,12 @@ Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
 Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
 
 Made with ❤️ by BeanSoft.
-Download Link: https://plugins.jetbrains.com/plugin/14718-fl-storm
+Plugin home page: https://plugins.jetbrains.com/plugin/14718-fl-storm
 ## Installation
 
 - Using IDE built-in plugin system:
 
-  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "FL Storm"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "FL Storm"</kbd> >
   <kbd>Install Plugin</kbd>
 
 - Manually:
@@ -17,9 +17,6 @@ Download Link: https://plugins.jetbrains.com/plugin/14718-fl-storm
   Download the [latest release](https://plugins.jetbrains.com/plugin/14718-fl-storm/versions) and install it manually using
   <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
-
-
-or just inside your IDE, In the **Settings/Preferences** dialog ⌘, , select **Plugins**, at **Marketplace** tab, search for **FL Storm** and then install it.
 
 ## 安装
 
