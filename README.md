@@ -1,6 +1,8 @@
 # 🧩FL Storm (former Flutter Storm)
 Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
 
+![Downloads](https://img.shields.io/jetbrains/plugin/d/14718)
+
 Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
 
 Made with ❤️ by BeanSoft.
