@@ -2,7 +2,7 @@
 Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
 
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/14718) ![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14718)
-![Version](https://img.shields.io/jetbrains/plugin/v/14718)
+![Version](https://img.shields.io/jetbrains/plugin/v/14718) ![Vistor](https://visitor-badge.glitch.me/badge?page_id=14718)
 
 Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
 
