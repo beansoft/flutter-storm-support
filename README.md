@@ -9,8 +9,11 @@ Flutter and the related logo are trademarks of Google LLC. We are not endorsed b
 Made with ❤️ by BeanSoft.
 
 [✅]CLion, GoLand, IntelliJ IDEA Ultimate, IntelliJ IDEA Educational, PhpStorm,RubyMine, WebStorm, PyCharm - fully supported
+
 [🚸]Rider - supports open project folder and edit, run, debug, can't create new project, I'm still working on the solution.
+
 [❌] - AppCoder -can't open project folder, can create new project
+
 [Features](https://plugins.jetbrains.com/plugin/14718-fluterstorm/features) | [FAQ](https://plugins.jetbrains.com/plugin/14718-fluterstorm/faq)
 For students and teachers this plugin is Free - Students and academic staff members are eligible to use this plugin free, upon verification of their university/college domain email. Please using your domain mail send request to me, I'll give send you a one year free subscription code.
 
