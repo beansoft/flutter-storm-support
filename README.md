@@ -1,5 +1,5 @@
-# 🧩FL Storm (former Flutter Storm)
-Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
+# 🧩FluterStorm (former Flutter Storm)
+Unofficial WebStorm/PhpStorm/GoLand/PyCharm/CLion/RubyMine plugin for developing Flutter applications.
 
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/14718) ![Rating](https://img.shields.io/jetbrains/plugin/r/rating/14718)
 ![Version](https://img.shields.io/jetbrains/plugin/v/14718) ![Vistor](https://visitor-badge.glitch.me/badge?page_id=14718)
@@ -7,12 +7,20 @@ Unofficial WebStorm/PhpStorm/GoLand plugin for developing Flutter applications.
 Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC.
 
 Made with ❤️ by BeanSoft.
+
+[✅]CLion, GoLand, IntelliJ IDEA Ultimate, IntelliJ IDEA Educational, PhpStorm,RubyMine, WebStorm, PyCharm - fully supported
+[🚸]Rider - supports open project folder and edit, run, debug, can't create new project, I'm still working on the solution.
+[❌] - AppCoder -can't open project folder, can create new project
+[Features](https://plugins.jetbrains.com/plugin/14718-fluterstorm/features) | [FAQ](https://plugins.jetbrains.com/plugin/14718-fluterstorm/faq)
+For students and teachers this plugin is Free - Students and academic staff members are eligible to use this plugin free, upon verification of their university/college domain email. Please using your domain mail send request to me, I'll give send you a one year free subscription code.
+
 Plugin home page: https://plugins.jetbrains.com/plugin/14718-fl-storm
+
 ## Installation
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "FL Storm"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "FluterStorm"</kbd> >
   <kbd>Install Plugin</kbd>
 
 - Manually:
@@ -25,7 +33,7 @@ Plugin home page: https://plugins.jetbrains.com/plugin/14718-fl-storm
 
 - IDE 内建插件市场:
   
-  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>搜索 "FL Storm"</kbd> >
+  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>搜索 "FluterStorm"</kbd> >
   <kbd>Install Plugin</kbd>
   
 - 手动:
@@ -42,17 +50,22 @@ Support for developing Flutter applications. Flutter gives developers an easy an
 
 
 
-**WANING**: Please uninstall Official Flutter plugin before installing this plugin.
+WANING: Please uninstall Official Flutter plugin before installing this plugin, there might be conflicts.
+Or uninstall FluterStorm before you installing the Official Flutter plugin to ensure stability.
 
 ## Features
 
-- Preview project images as an icon in your project explorer, supports png, svg, jpg, etc
-- Single click in pubspec.yaml and Dart source code to open dependency package's homepage in web browser
-- Autocomplete Pub Packages in pubspec.yaml
-- Highlight and Update Pub Packages in pubspec.yam
-- View Pub Package's Documentation in pubspec.yam, press `Ctrl+Q` to show additional information
-- Redesigned New Flutter project wizard on *Storm IDE without blocking the whole window anymore
 - Flutter official IDE features like code edit, refactor, run, debug, hot reload, hot restart; Flutter performance, outline inspector
+- Create New Flutter project on *Storm IDE
+- Fix UI freeze when creating New Flutter project on *Storm IDE and IDEA/Ultimate
+- Visual color editor for Color.fromARGB and Color.fromRGBO
+- Single click in pubspec.yaml and Dart source code to open dependency package's source file or view homepage in web browser
+- Preview Image.asset('images/ble.png') icon as editor line marker and click to open
+- Auto complete of font name and image path when edit Dart string
+- Autocomplete Pub Packages in pubspec.yaml
+- Highlight and Update Pub Packages in pubspec.yaml
+- View Pub Package's Documentation in pubspec.yam, press `Ctrl+Q` to show additional information
+- Preview project images as an icon in your project explorer, supports png, svg, jpg, etc
 - Debug Android devices over wifi with just one click
 - Display colorful terminal output
 - Start Xcode, Android Studio on Mac with one click
@@ -68,10 +81,13 @@ Support for developing Flutter applications. Flutter gives developers an easy an
 - fultter build ios and android
 - fultter clean
 - Reveal project folder in Finder/Explorer
+- Generate Widgets: When creating a new file, choose the *"New Flutter Widget"* option.
+- Generate Blocs: When creating a new file, choose the *"New Flutter Bloc"* option.
 
+**Some Features provieded by FluterStorm but now in the offcial Flutter Plugin**
 
-
-**Some Features provieded by Flutter Storm but now in the offcial Flutter Plugin**
+- Color editor
+  ![img](https://plugins.jetbrains.com/files/14718/screenshot_23035.png)
 
 - Preview project images as an icon in your project explorer, supports png, svg, jpg, etc
 
