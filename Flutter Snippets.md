@@ -1,237 +1,57 @@
-<p>Provides live templates for Flutter to save time writing boilerplate.</p>
-<p>The following commands are supported:</p>
-<table>
-  <tr>
-    <th>Shortcut</th>
-    <th>Description</th>
-  </tr>
-    <tr>
-      <td>pagestart</td>
-      <td>Create page with MaterialApp.</td>
-    </tr>
-      <tr>
-        <td>page</td>
-        <td>Create page without MaterialApp.</td>
-      </tr>
-            <tr>
-              <td>btn_flat</td>
-              <td>Create FlatButton Widget</td>
-            </tr>
-            <tr>
-              <td>btn_flat_icon</td>
-              <td>Create FlatButton.icon Widget</td>
-            </tr>
-            <tr>
-              <td>btn_raised</td>
-              <td>Create RaisedButton Widget</td>
-            </tr>
-            <tr>
-              <td>btn_flat_icon</td>
-              <td>Create RasiedButton.icon Widget</td>
-            </tr>
-            <tr>
-              <td>btn_outline</td>
-              <td>Create OutlineButton Widget</td>
-            </tr>
-            <tr>
-              <td>btn_outline_icon</td>
-              <td>Create OutlineButton.icon Widget</td>
-            </tr>
-            <tr>
-              <td>btn_text</td>
-              <td>Create TextButton Widget</td>
-            </tr>
-            <tr>
-              <td>btn_text_icon</td>
-              <td>Create TextButton.icon Widget</td>
-            </tr>
-            <tr>
-              <td>btn_popup</td>
-              <td>Create PopupMenuButton Widget</td>
-            </tr>
-            <tr>
-              <td>btn_dropdown</td>
-              <td>Create DropdownButton Widget</td>
-            </tr>
-            <tr>
-              <td>btn_icon</td>
-              <td>Create IconButton Widget</td>
-            </tr>
-  <tr>
-    <td>animatedBldr</td>
-    <td>Animated Builder|Creates an Animated Builder.</td>
-  </tr>
-    <tr>
-    <td>aspectRatio</td>
-    <td>AspectRatio |Creates an AspectRatio</td>
-  </tr>
-    <tr>
-    <td>build</td>
-    <td>Build Method</td>
-  </tr>
-      <tr>
-    <td>column</td>
-    <td>Column |Creates a Column Widget</td>
-  </tr>
-      <tr>
-    <td>container</td>
-    <td>Container |Creates a Container Widget</td>
-  </tr>
-  <tr>
-    <td>customClipper</td>
-    <td>Custom Clipper</td>
-  </tr>
-  <tr>
-    <td>customPainter</td>
-    <td>Custom Painter</td>
-  </tr>
-    <tr>
-    <td>customScrollV</td>
-    <td>Custom ScrollView</td>
-  </tr>
-  <tr>
-    <td>debugP</td>
-    <td>Debug Print</td>
-  </tr>
-    <tr>
-    <td>dis</td>
-    <td>Dispose</td>
-  </tr>
-  <tr>
-    <td>futureBldr</td>
-    <td>Future Builder|Creates a Future Builder.</td>
-  </tr>
-    <tr>
-    <td>initS</td>
-    <td>InitState</td>
-  </tr>
-    <tr>
-    <td>layoutBldr</td>
-    <td>Layout Builder</td>
-  </tr>
-  <tr>
-    <td>listViewBldr</td>
-    <td>ListView.Builder</td>
-  </tr>
-      <tr>
-    <td>mounted</td>
-    <td>Mounted|Whether this State object is currently in a tree.</td>
-  </tr>
-    <tr>
+Provides live templates for Flutter to save time writing boilerplate.
 
-    <td>nosm</td>
-    <td>No Such Method</td>
-  </tr>
-      <tr>
-    <td>orientationBldr</td>
-    <td>Orientation Builder</td>
-  </tr>
-   <tr>
-    <td>reassemble</td>
-    <td>Reassemble</td>
-  </tr>
-  <tr>
-    <td>row</td>
-    <td>Creates a Row Widget</td>
-  </tr>
-    <tr>
-    <td>showDialog</td>
-    <td>Alert Dialog</td>
-  </tr>
-  <tr>
-    <td>singleChildSV</td>
-    <td>Single Child Scroll View|Creates a scroll view with a single child</td>
-  </tr>
-    <tr>
-    <td>snk</td>
-    <td>Sink|A Sink is the input of a stream.</td>
-  </tr>
-      <tr>
-    <td>streamBldr</td>
-    <td>Stream Builder</td>
-  </tr>
+The following commands are supported:
 
-
-      <tr>
-    <td>statefulBldr</td>
-    <td>Stateful Builder</td>
-  </tr>
-
-        <tr>
-    <td>strm</td>
-    <td>StreamController</td>
-  </tr>
-
-        <tr>
-    <td>subj</td>
-    <td>BehaviorSubject</td>
-  </tr>
-
-        <tr>
-    <td>text</td>
-    <td>Text |Creates a Text Widget</td>
-  </tr>
-
-          <tr>
-    <td>toStr</td>
-    <td>To String|Returns a string representation of this object.</td>
-  </tr>
-
-          <tr>
-    <td>tweenAnimationBldr</td>
-    <td>Tween Animation Builder</td>
-  </tr>
-
-
-          <tr>
-    <td>valueListenableBldr</td>
-    <td>Value Listenable Builder</td>
-  </tr>
-
-          <tr>
-    <td>cupeApp</td>
-    <td>Cupertino App |Create a New Cupertino App</td>
-  </tr>
-
-
-          <tr>
-    <td>importC</td>
-    <td>Cupertino Package|Import Cupertino package.</td>
-  </tr>
-
-
-          <tr>
-    <td>importM</td>
-    <td>Material Package |Import Material package</td>
-  </tr>
-
-
-
-        <tr>
-    <td>mateApp</td>
-    <td>Material App |Create a new Material App</td>
-  </tr>
-
-
-        <tr>
-    <td>scfAll</td>
-    <td>Scaffold |Creates a Scaffold containing an Appbar, BottomNavigationBar and FloatingActionButton</td>
-  </tr>
-
-
-        <tr>
-    <td>scfAppBar</td>
-    <td>Scaffold |Creates a Scaffold containing an Appbar</td>
-  </tr>
-
-    <tr>
-    <td>scfAppBarFab</td>
-    <td>Scaffold |Creates a Scaffold containing an Appbar and Floating Action Button</td>
-  </tr>
-
-        <tr>
-    <td>scfAppBarBtmNav</td>
-    <td>Scaffold |Creates a Scaffold containing an Appbar and Bottom Navigation Bar</td>
-  </tr>
-
-</table>
+| Shortcut            | Description                                                  |
+| ------------------- | ------------------------------------------------------------ |
+| pagestart           | Create page with MaterialApp.                                |
+| page                | Create page without MaterialApp.                             |
+| btn_flat            | Create FlatButton Widget                                     |
+| btn_flat_icon       | Create FlatButton.icon Widget                                |
+| btn_raised          | Create RaisedButton Widget                                   |
+| btn_flat_icon       | Create RasiedButton.icon Widget                              |
+| btn_outline         | Create OutlineButton Widget                                  |
+| btn_outline_icon    | Create OutlineButton.icon Widget                             |
+| btn_text            | Create TextButton Widget                                     |
+| btn_text_icon       | Create TextButton.icon Widget                                |
+| btn_popup           | Create PopupMenuButton Widget                                |
+| btn_dropdown        | Create DropdownButton Widget                                 |
+| btn_icon            | Create IconButton Widget                                     |
+| animatedBldr        | Animated Builder\|Creates an Animated Builder.               |
+| aspectRatio         | AspectRatio \|Creates an AspectRatio                         |
+| build               | Build Method                                                 |
+| column              | Column \|Creates a Column Widget                             |
+| container           | Container \|Creates a Container Widget                       |
+| customClipper       | Custom Clipper                                               |
+| customPainter       | Custom Painter                                               |
+| customScrollV       | Custom ScrollView                                            |
+| debugP              | Debug Print                                                  |
+| dis                 | Dispose                                                      |
+| futureBldr          | Future Builder\|Creates a Future Builder.                    |
+| initS               | InitState                                                    |
+| layoutBldr          | Layout Builder                                               |
+| listViewBldr        | ListView.Builder                                             |
+| mounted             | Mounted\|Whether this State object is currently in a tree.   |
+| nosm                | No Such Method                                               |
+| orientationBldr     | Orientation Builder                                          |
+| reassemble          | Reassemble                                                   |
+| row                 | Creates a Row Widget                                         |
+| showDialog          | Alert Dialog                                                 |
+| singleChildSV       | Single Child Scroll View\|Creates a scroll view with a single child |
+| snk                 | Sink\|A Sink is the input of a stream.                       |
+| streamBldr          | Stream Builder                                               |
+| statefulBldr        | Stateful Builder                                             |
+| strm                | StreamController                                             |
+| subj                | BehaviorSubject                                              |
+| text                | Text \|Creates a Text Widget                                 |
+| toStr               | To String\|Returns a string representation of this object.   |
+| tweenAnimationBldr  | Tween Animation Builder                                      |
+| valueListenableBldr | Value Listenable Builder                                     |
+| cupeApp             | Cupertino App \|Create a New Cupertino App                   |
+| importC             | Cupertino Package\|Import Cupertino package.                 |
+| importM             | Material Package \|Import Material package                   |
+| mateApp             | Material App \|Create a new Material App                     |
+| scfAll              | Scaffold \|Creates a Scaffold containing an Appbar, BottomNavigationBar and FloatingActionButton |
+| scfAppBar           | Scaffold \|Creates a Scaffold containing an Appbar           |
+| scfAppBarFab        | Scaffold \|Creates a Scaffold containing an Appbar and Floating Action Button |
+| scfAppBarBtmNav     | Scaffold \|Creates a Scaffold containing an Appbar and Bottom Navigation Bar |
